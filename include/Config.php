@@ -4,8 +4,8 @@
  * @author Joseph Caxton-Idowu
  */
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'letmein2');
-define('DB_HOST', '54.72.34.84');
+define('DB_PASSWORD', 'letmein25');
+define('DB_HOST', '44.72.34.84');
 define('DB_NAME', 'Videos');
  
 define('USER_CREATED_SUCCESSFULLY', 0);
